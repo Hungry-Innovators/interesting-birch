@@ -115,7 +115,9 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Hungry Innovators - Network of peers and Innovators
-  description: The preview of the Exto theme
+  description: >-
+    We are a thriving network of peers and innovators. We are nurturing a
+    generation of Innovators, business leaders, and Founders.
   extra:
     - name: 'og:type'
       value: website
