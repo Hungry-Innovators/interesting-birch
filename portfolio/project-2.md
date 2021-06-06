@@ -18,7 +18,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 2
+      value: Ideation - Hungry Innovators
       keyName: property
     - name: 'og:description'
       value: >+
