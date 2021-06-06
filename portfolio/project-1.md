@@ -4,7 +4,6 @@ subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/priscilla-du-preez-XkKCui44iM0-unsplash.jpg
 image: images/1.jpg
-image_alt: 'White, black, and red shoe sole'
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
