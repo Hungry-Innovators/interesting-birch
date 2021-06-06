@@ -27,9 +27,10 @@ seo:
 
       keyName: property
     - name: 'og:image'
-      value: images/2.jpg
+      value: >-
+        https://cdn.forestry.io/res2/P4nYbbQbMfvLvKkvPi7SiWDNH1iZv5PENLDNxq-Kg38/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUzNjek1WRXdQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMjFk/Y2FhOTUwMzBjMWIy/MGQ2ZGEyNDEzYWI3/YWVjMTcyNGJmNzYy/Yy9rdmFsaWZpay01/UTA3c1M1NEQwUS11/bnNwbGFzaC5qcGc
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
