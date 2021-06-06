@@ -37,6 +37,11 @@ seo:
         https://cdn.forestry.io/res2/H1okWx_4ui2dX_MupX5xOI1Sui1Lrkp3ZQe6UkQZxUY/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUzBrek1WRXdQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMzQ5/ZDRlMjEzMjg2Zjlm/YzYzODMwZTFlZDhi/MTAwNDAwMmMxNDMz/NC9wcmlzY2lsbGEt/ZHUtcHJlZXotWGtL/Q3VpNDRpTTAtdW5z/cGxhc2guanBn
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: >-
+        https://cdn.forestry.io/res2/H1okWx_4ui2dX_MupX5xOI1Sui1Lrkp3ZQe6UkQZxUY/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUzBrek1WRXdQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMzQ5/ZDRlMjEzMjg2Zjlm/YzYzODMwZTFlZDhi/MTAwNDAwMmMxNDMz/NC9wcmlzY2lsbGEt/ZHUtcHJlZXotWGtL/Q3VpNDRpTTAtdW5z/cGxhc2guanBn
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
