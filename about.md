@@ -34,8 +34,9 @@ seo:
         A thriving network of peers and innovators. Dedicated to inspiring the
         next generation of innovators. 
     - name: 'twitter:image'
-      value: images/about.jpg
-      relativeUrl: true
+      value: >-
+        https://cdn.forestry.io/res2/5ABwUh-3eD1yaqEUgcd0ICTnVXSVVm0BM_vwcSBZ1LI/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDU25Nek1WRXdQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMjlh/NGExNmM0YjYzYzJm/N2FmYjM3MzYyODQx/ZDJkMGQwMjY0ZTcy/OC9odW5ncnlfaW5u/b3ZhdG9yc19jb3Zl/ci5qcGc
+      relativeUrl: false
 layout: page
 ---
 ## Who We Are.
