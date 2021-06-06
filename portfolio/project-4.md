@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Entrepreneurship and Social Support
+      value: Entrepreneurship and Social Support - Hungry Innovators
     - name: 'twitter:description'
       value: This is the project 4 description
     - name: 'twitter:image'
