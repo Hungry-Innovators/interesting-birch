@@ -16,7 +16,9 @@ seo:
       value: About Us
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        A thriving network of peers and innovators. Dedicated to inspiring the
+        next generation of innovators. 
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
