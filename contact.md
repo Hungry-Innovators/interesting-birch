@@ -82,5 +82,9 @@ seo:
       value: /_static/app-assets/luca-bravo-9l_326FISzk-unsplash.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /_static/app-assets/luca-bravo-9l_326FISzk-unsplash.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
