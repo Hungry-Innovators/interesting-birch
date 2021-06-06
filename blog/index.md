@@ -23,7 +23,7 @@ seo:
         Innovators Blog.
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: /_static/app-assets/christina-wocintechchat-com-yyp_HpXrUfw-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
