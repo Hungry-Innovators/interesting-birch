@@ -1,6 +1,5 @@
 ---
 title: Community
-subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/priscilla-du-preez-XkKCui44iM0-unsplash.jpg
 image: /images/priscilla-du-preez-XkKCui44iM0-unsplash.jpg
