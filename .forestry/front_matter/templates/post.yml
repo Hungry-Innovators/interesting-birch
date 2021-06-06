@@ -53,7 +53,5 @@ fields:
   config:
     required: true
 pages:
-- blog/green.md
 - blog/interior-designer.md
 - blog/street-photography.md
-- blog/working-from-home.md
