@@ -35,7 +35,10 @@ seo:
     - name: 'twitter:title'
       value: Project Title 2
     - name: 'twitter:description'
-      value: This is the project 2 description
+      value: >+
+        Building future of a generation of Founders. We are building this work
+        through our incubation and acceleration program.
+
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
