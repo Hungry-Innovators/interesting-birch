@@ -45,10 +45,12 @@ sections:
       - type: grid_item
         template: grid_item
         title: Education
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >+
+          We work with leaders who believe in universal access to education and
+          are driving a wide range of innovative approaches to teach, mentoring,
+          and learning for young people.
+
+
       - type: grid_item
         template: grid_item
         title: Service Title
