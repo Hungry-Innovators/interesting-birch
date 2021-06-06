@@ -85,7 +85,7 @@ sections:
         actions: []
   - type: section_testimonials
     template: section_testimonials
-    title: Recommended
+    title: Recommended by
     section_id: testimonials
     col_number: three
     testimonials:
