@@ -10,9 +10,4 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+By becoming a Hungry Innovators member, you will first and foremost become part of our community. We are looking for members who want to collaborate, teach, learn and challenge each other.
