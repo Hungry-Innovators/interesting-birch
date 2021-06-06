@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Blog - Hungry Innovators
       keyName: property
     - name: 'og:description'
       value: >-
