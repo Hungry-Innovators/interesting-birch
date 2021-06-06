@@ -42,6 +42,10 @@ seo:
         https://cdn.forestry.io/res2/iCE8BNXwfUsLjJwe96bkEJgpRpIuH709VKshCKQ8D7M/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUjNCRE1WRXdQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tYjZh/YWRiMGVjNDk3OGVh/MzY5YTcyMzQxMmU5/OWQ0OTMwNTljODVl/NC9Qcm9mZXNzaW9u/YWxfVW5pcXVlX1N1/cGVycG93ZXJzLnBu/Zw
       keyName: property
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
 layout: post
 title: 'How to Find Your Professional, Unique Superpowers'
 subtitle: >-
