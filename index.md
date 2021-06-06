@@ -94,11 +94,10 @@ sections:
     content: Energy Consultant at Peak Services
   - type: testimonial
     template: testimonial
-    author: Deegan Wallace
-    avatar: images/deegan_wallace.jpg
-    avatar_alt: Deegan Wallace's photo
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam.
+    author: Ronish solapurwala
+    avatar: "/images/1610877202327.jpg"
+    avatar_alt: Ronish solapurwala's photo
+    content: Student at Griffith University
   subtitle: ''
 - type: section_posts
   template: section_posts
