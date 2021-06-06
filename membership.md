@@ -7,7 +7,13 @@ seo:
     We are looking for members who want to collaborate, teach, learn and
     challenge each other.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        We are looking for members who want to collaborate, teach, learn and
+        challenge each other.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
