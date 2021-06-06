@@ -6,7 +6,9 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Portfolio
-  description: This is the portfolio page
+  description: >-
+    We work at the intersection of Entrepreneurship and Innovations to creating
+    long-lasting social change.
   extra:
     - name: 'og:type'
       value: website
