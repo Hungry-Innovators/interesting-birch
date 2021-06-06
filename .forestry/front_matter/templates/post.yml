@@ -52,3 +52,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- blog/how-to-find-your-professional-unique-superpowers.md
