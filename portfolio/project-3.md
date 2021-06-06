@@ -40,14 +40,14 @@ If you’re aged between 14 and 25 years of age Hungry Innovators can provide yo
 
 Hungry Innovators can help you identify your career objectives and will work with you to make sure you’re on track to achieving your goals through
 
-*   Job preparation workshops
+1.  Job preparation workshops
 
-*   Training
+2.  Training
 
-*   Help writing resumes and applying for jobs
+3.  Help writing resumes and applying for jobs
 
-*   Interview preparation
+4.  Interview preparation
 
-*   Counseling and support
+5.  Counseling and support
 
 Hungry Innovators will even continue to support you once you have found work to make sure you’re happy with your career pathway and to keep you on track to maintaining employment.
