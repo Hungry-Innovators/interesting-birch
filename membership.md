@@ -1,5 +1,5 @@
 ---
-title: Join Our Community
+title: Join our Community
 image_alt: lorem-ipsum
 seo:
   title: ''
