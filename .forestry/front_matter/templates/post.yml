@@ -52,6 +52,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- blog/interior-designer.md
-- blog/street-photography.md
