@@ -14,7 +14,7 @@ sections:
       - type: action
         template: action
         label: Learn More
-        url: /contact
+        url: /about
         style: button
   - type: section_portfolio
     template: section_portfolio
