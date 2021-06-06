@@ -71,7 +71,6 @@ sections:
     template: section_testimonials
     title: Testimonials
     section_id: testimonials
-    subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
       - type: testimonial
