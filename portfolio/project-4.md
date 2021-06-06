@@ -7,7 +7,7 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Entrepreneurship and Social Support - Hungry Innovators
-  description: This is the project 4 description
+  description: We aim to empower young entrepreneurs with ICT and Business skills.
   extra:
     - name: 'og:type'
       value: website
