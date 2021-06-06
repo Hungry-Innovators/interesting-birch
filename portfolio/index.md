@@ -29,7 +29,10 @@ seo:
     - name: 'twitter:title'
       value: Portfolio
     - name: 'twitter:description'
-      value: This is the portfolio page
+      value: >+
+        We work at the intersection of Entrepreneurship and Innovations to
+        creating long-lasting social change.
+
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
