@@ -1,6 +1,6 @@
 ---
 title: Get Involved
-subtitle: lorem-ipsum
+subtitle: Let's create more impacts.
 image_alt: lorem-ipsum
 seo:
   title: ''
