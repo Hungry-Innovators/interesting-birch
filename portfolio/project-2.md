@@ -8,7 +8,7 @@ image_alt: An orange on a blue background
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Project Title 2
+  title: Ideation - Hungry Innovators
   description: This is the project 2 description
   extra:
     - name: 'og:type'
