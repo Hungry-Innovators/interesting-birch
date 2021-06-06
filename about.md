@@ -5,7 +5,9 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: About Us - Hungry Innovators
-  description: This is the about us page
+  description: >-
+    A thriving network of peers and innovators. Dedicated to inspiring the next
+    generation of innovators. 
   extra:
     - name: 'og:type'
       value: website
