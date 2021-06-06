@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Who we are.
+## Who We Are.
 
 A thriving network of peers and innovators. Dedicated to inspiring the next generation of innovators. We are nurturing a generation of Innovators, business leaders, and Founders.
 
