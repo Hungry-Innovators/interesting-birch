@@ -42,6 +42,7 @@ sections:
         name: message
         label: Message
         default_value: Your message
+        is_required: true
       - type: form_field
         template: form_field
         input_type: checkbox
