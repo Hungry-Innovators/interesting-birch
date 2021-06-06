@@ -21,6 +21,12 @@ seo:
       value: 'How to Find Your Professional, Unique Superpowers'
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >
+        According to Harvard Business Review, leaders who focus on identifying
+        and leveraging their strengths reach their full potential
+      keyName: name
+      relativeUrl: false
 layout: post
 title: 'How to Find Your Professional, Unique Superpowers'
 subtitle: >-
