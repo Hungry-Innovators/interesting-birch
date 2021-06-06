@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Blog - Hungry Innovators
     - name: 'twitter:description'
       value: >-
         Tips and advice to grow your career and in life. This is the Hungry
