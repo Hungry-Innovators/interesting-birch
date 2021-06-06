@@ -25,9 +25,10 @@ seo:
       value: This is the project 3 description
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: >-
+        https://cdn.forestry.io/res2/dLCI5fdn7nfkpaf6Ah9xf_HNVWWBIbfb_wdhXlQuRYM/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVUVVek1WRXdQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tZDQ3/YjVkODExMWQ1YTMw/YjE5NmRjZWE3MWI5/NTIyODUxZTQ0ZDY2/OS9jaHJpc3RpbmEt/d29jaW50ZWNoY2hh/dC1jb20tTFExdC04/TXM1UFktdW5zcGxh/c2guanBn
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
