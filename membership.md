@@ -28,6 +28,10 @@ seo:
       value: Join Our Community
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Join Our Community
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
