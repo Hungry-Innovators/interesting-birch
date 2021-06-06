@@ -24,6 +24,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: Join Our Community
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
