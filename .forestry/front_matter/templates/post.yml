@@ -53,11 +53,4 @@ fields:
   config:
     required: true
 pages:
-- blog/function-of-design.md
-- blog/games.md
-- blog/green.md
-- blog/interior-designer.md
-- blog/street-photography.md
-- blog/why-fonts-matter.md
-- blog/working-from-home.md
-- blog/workplace.md
+- blog/how-to-find-your-professional-unique-superpowers.md
