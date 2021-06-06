@@ -5,7 +5,7 @@ layout_style: mosaic
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Portfolio
+  title: Our Services - Hungry Innovators
   description: >-
     We work at the intersection of Entrepreneurship and Innovations to creating
     long-lasting social change.
