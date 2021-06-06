@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Portfolio
+      value: Our Services - Hungry Innovators
     - name: 'twitter:description'
       value: >+
         We work at the intersection of Entrepreneurship and Innovations to
