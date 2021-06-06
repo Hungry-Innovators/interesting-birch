@@ -27,6 +27,12 @@ seo:
         and leveraging their strengths reach their full potential
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: >
+        According to Harvard Business Review, leaders who focus on identifying
+        and leveraging their strengths reach their full potential
+      keyName: property
+      relativeUrl: false
 layout: post
 title: 'How to Find Your Professional, Unique Superpowers'
 subtitle: >-
