@@ -32,11 +32,20 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Who we are.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+A thriving network of peers and innovators. Dedicated to inspiring the next generation of innovators. We are nurturing a generation of Innovators, business leaders, and Founders.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+> We’re building a dynamic community of business leaders, social innovators, Founders committed to solving global issues.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+### Purpose
 
-*Thank You for reading!*
+Our founding team is dedicated to solving a problem, but we need your help. If you are interested in being part of a wonderful solution, Hungry Innovators is the perfect place!
+
+We work at the intersection of Entrepreneurship and Innovations, connecting our expertise and global networks to emerging leaders creating long-lasting social change.
+
+### Mission
+
+Hungry Innovator's mission is to empower youth with technological skills and inspire the next generation of innovators and digital creators.
+
+We provide the tools they need to bring their solutions to life and lead transformative change.
