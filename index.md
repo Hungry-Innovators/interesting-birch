@@ -114,7 +114,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Stackbit Exto Theme
+  title: Hungry Innovators - Network of peers and Innovators
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
