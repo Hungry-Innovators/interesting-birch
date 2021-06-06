@@ -41,8 +41,8 @@
       {
         "type": "action",
         "template": "action",
-        "label": "Style Guide",
-        "url": "/style-guide/",
+        "label": "Get Involved",
+        "url": "/get-involved/",
         "style": "link",
         "icon": "",
         "new_window": false,
