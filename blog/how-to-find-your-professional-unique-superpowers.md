@@ -17,6 +17,10 @@ seo:
       value: 'How to Find Your Professional, Unique Superpowers'
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: 'How to Find Your Professional, Unique Superpowers'
+      keyName: name
+      relativeUrl: false
 layout: post
 title: 'How to Find Your Professional, Unique Superpowers'
 subtitle: >-
