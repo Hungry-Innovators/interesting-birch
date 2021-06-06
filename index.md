@@ -88,11 +88,10 @@ sections:
     content: Intellectually Curious | TEDx Speaker | UN Delegate | Founder
   - type: testimonial
     template: testimonial
-    author: Aubrey Hoover
-    avatar: images/aubrey_hoover.jpg
-    avatar_alt: Aubrey Hoover's photo
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    author: Mike Fideli
+    avatar: "/images/mike_fideli.jpg"
+    avatar_alt: Mike Fideli's photo
+    content: Energy Consultant at Peak Services
   - type: testimonial
     template: testimonial
     author: Deegan Wallace
