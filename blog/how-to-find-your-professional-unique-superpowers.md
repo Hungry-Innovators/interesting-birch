@@ -33,6 +33,10 @@ seo:
         and leveraging their strengths reach their full potential
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
 layout: post
 title: 'How to Find Your Professional, Unique Superpowers'
 subtitle: >-
