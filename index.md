@@ -54,10 +54,11 @@ sections:
       - type: grid_item
         template: grid_item
         title: Climate Change
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >+
+          We support bold ideas for forest regeneration and protecting our
+          biodiversity that is essential to mitigating climate change.
+
+
       - type: grid_item
         template: grid_item
         title: Service title
