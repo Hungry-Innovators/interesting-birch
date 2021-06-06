@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Entrepreneurship and Social Support - Hungry Innovators
     - name: 'twitter:description'
-      value: This is the project 4 description
+      value: We aim to empower young entrepreneurs with ICT and Business skills.
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
