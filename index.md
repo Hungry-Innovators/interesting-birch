@@ -139,7 +139,9 @@ seo:
     - name: 'twitter:title'
       value: Hungry Innovators - Network of peers and Innovators
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        We are a thriving network of peers and innovators. We are nurturing a
+        generation of Innovators, business leaders, and Founders.
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
