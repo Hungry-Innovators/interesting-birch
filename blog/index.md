@@ -18,7 +18,9 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: >-
+        Tips and advice to grow your career and in life. This is the Hungry
+        Innovators Blog.
       keyName: property
     - name: 'og:image'
       value: images/12.jpg
