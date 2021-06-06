@@ -7,7 +7,9 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Blog
-  description: This is the blog page
+  description: >-
+    Tips and advice to grow your career and in life. This is the Hungry
+    Innovators Blog.
   extra:
     - name: 'og:type'
       value: website
