@@ -35,7 +35,8 @@ seo:
         Tips and advice to grow your career and in life. This is the Hungry
         Innovators Blog.
     - name: 'twitter:image'
-      value: images/12.jpg
-      relativeUrl: true
+      value: >-
+        https://cdn.forestry.io/res2/jC0WQLsdH1MAGorWDZvsPfN7RVYtbI91izk9ZsyOm_4/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDU3pRNE1WRXdQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tZWFi/NDRjYzE1NWYxNzM2/YmE0ZmZiNzI4ODVm/OGUxN2NlOGNkMzhm/MC9jaHJpc3RpbmEt/d29jaW50ZWNoY2hh/dC1jb20teXlwX0hw/WHJVZnctdW5zcGxh/c2guanBn
+      relativeUrl: false
 layout: blog
 ---
