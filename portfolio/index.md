@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Services
 subtitle: 'The Hungry Innovators offering the following:'
 layout_style: mosaic
 seo:
