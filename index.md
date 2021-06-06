@@ -62,9 +62,12 @@ sections:
       - type: grid_item
         template: grid_item
         title: Entrepreneurship and Social Support
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >+
+          We aim to empower young entrepreneurs with ICT and Business skills. We
+          provide the tools they need to bring their solutions to life and lead
+          transformative change.
+
+
   - type: section_testimonials
     template: section_testimonials
     title: Testimonials
