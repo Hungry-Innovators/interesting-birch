@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio
+      value: Our Services - Hungry Innovators
       keyName: property
     - name: 'og:description'
       value: >+
