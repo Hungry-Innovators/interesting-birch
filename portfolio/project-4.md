@@ -16,7 +16,7 @@ seo:
       value: Entrepreneurship and Social Support - Hungry Innovators
       keyName: property
     - name: 'og:description'
-      value: This is the project 4 description
+      value: We aim to empower young entrepreneurs with ICT and Business skills.
       keyName: property
     - name: 'og:image'
       value: >-
