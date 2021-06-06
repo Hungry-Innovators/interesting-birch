@@ -55,7 +55,9 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Contact
-  description: This is the contact page
+  description: >-
+    Please feel free to drop a message if you want to talk about business
+    opportunities. Fill the contact form below or send us an email.
   extra:
     - name: 'og:type'
       value: website
