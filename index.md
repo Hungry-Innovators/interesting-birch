@@ -53,7 +53,7 @@ sections:
 
       - type: grid_item
         template: grid_item
-        title: Service Title
+        title: Climate Change
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
