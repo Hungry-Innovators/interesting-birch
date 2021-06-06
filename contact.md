@@ -66,7 +66,9 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        Please feel free to drop a message if you want to talk about business
+        opportunities. Fill the contact form below or send us an email.
       keyName: property
     - name: 'twitter:card'
       value: summary
