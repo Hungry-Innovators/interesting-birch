@@ -121,7 +121,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: Hungry Innovators - Network of peers and Innovators
       keyName: property
     - name: 'og:description'
       value: The preview of the Exto theme
