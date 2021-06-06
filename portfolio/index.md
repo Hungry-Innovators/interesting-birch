@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: 'The Hungry Innovators will be offering the following:'
+subtitle: 'The Hungry Innovators offering the following:'
 layout_style: mosaic
 seo:
   type: stackbit_page_meta
