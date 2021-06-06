@@ -15,7 +15,10 @@ seo:
       value: Portfolio
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: >+
+        We work at the intersection of Entrepreneurship and Innovations to
+        creating long-lasting social change.
+
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
