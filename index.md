@@ -36,10 +36,12 @@ sections:
       - type: grid_item
         template: grid_item
         title: Community
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          We’re building a strong community of young people who are learning to
+          code and support them with our network of mentors, investors, and
+          Founders.
+
+
       - type: grid_item
         template: grid_item
         title: Service Title
