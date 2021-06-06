@@ -78,5 +78,9 @@ seo:
       value: >-
         Please feel free to drop a message if you want to talk about business
         opportunities. Fill the contact form below or send us an email.
+    - name: 'og:image'
+      value: /_static/app-assets/luca-bravo-9l_326FISzk-unsplash.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
