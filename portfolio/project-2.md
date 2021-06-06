@@ -9,7 +9,10 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Ideation - Hungry Innovators
-  description: This is the project 2 description
+  description: >+
+    Building future of a generation of Founders. We are building this work
+    through our incubation and acceleration program.
+
   extra:
     - name: 'og:type'
       value: website
