@@ -4,8 +4,8 @@ image_alt: lorem-ipsum
 seo:
   title: Join Our Community
   description: >-
-    We are looking for members who wants to collaboorate, teach, learn and
-    challenge each others.
+    We are looking for members who want to collaborate, teach, learn and
+    challenge each other.
   robots: []
   extra: []
   type: stackbit_page_meta
