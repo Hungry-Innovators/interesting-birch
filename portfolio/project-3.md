@@ -9,8 +9,11 @@ image_alt: A yellow retro telephone on a yellow background
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Project Title 3
-  description: This is the project 3 description
+  title: Youth Employment - Hungry Innovators
+  description: >+
+    If you’re aged between 14 and 25 years of age Hungry Innovators can provide
+    you with specialist, one on one support to help you find work.
+
   extra:
     - name: 'og:type'
       value: website
@@ -28,9 +31,12 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 3
+      value: Youth Employment - Hungry Innovators
     - name: 'twitter:description'
-      value: This is the project 3 description
+      value: >+
+        If you’re aged between 14 and 25 years of age Hungry Innovators can
+        provide you with specialist, one on one support to help you find work.
+
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
