@@ -6,7 +6,7 @@ col_number: three
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Blog
+  title: Blog - Hungry Innovators
   description: >-
     Tips and advice to grow your career and in life. This is the Hungry
     Innovators Blog.
