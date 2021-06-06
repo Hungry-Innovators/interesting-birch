@@ -75,6 +75,8 @@ seo:
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        Please feel free to drop a message if you want to talk about business
+        opportunities. Fill the contact form below or send us an email.
 layout: advanced
 ---
