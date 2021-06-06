@@ -28,7 +28,7 @@ sections:
     template: section_grid
     title: What We Do
     section_id: services
-    subtitle: 'Hungry Innovators, All rights reserved.'
+    subtitle: 'Hungry Innovators offer''s the following:'
     col_number: two
     is_numbered: true
     grid_items:
