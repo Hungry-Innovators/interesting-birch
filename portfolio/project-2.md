@@ -1,6 +1,5 @@
 ---
 title: Ideation
-subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/kvalifik-5Q07sS54D0Q-unsplash.jpg
 thumb_image_alt: Ideation
