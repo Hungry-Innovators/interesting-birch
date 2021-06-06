@@ -14,6 +14,12 @@ seo:
         challenge each other.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        We are looking for members who want to collaborate, teach, learn and
+        challenge each other.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
