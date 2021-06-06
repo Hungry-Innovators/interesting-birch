@@ -126,7 +126,9 @@ seo:
       value: Hungry Innovators - Network of peers and Innovators
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        We are a thriving network of peers and innovators. We are nurturing a
+        generation of Innovators, business leaders, and Founders.
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
