@@ -6,7 +6,7 @@ image: /images/daniel-thomas-HA-0i0E7sq4-unsplash.jpg
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Project Title 4
+  title: Entrepreneurship and Social Support - Hungry Innovators
   description: This is the project 4 description
   extra:
     - name: 'og:type'
