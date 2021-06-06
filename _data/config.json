@@ -1,100 +1,127 @@
 {
-    "title": "Hungry Innovators - Network of peers and Innovators",
-    "color_scheme": "light",
-    "accent_color": "blue",
-    "header": {
-        "type": "header",
-        "template": "header",
-        "title": "Hungry Innovators",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Portfolio",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            }
-        ]
-    },
-    "footer": {
-        "type": "footer",
-        "template": "footer",
-        "content": "&copy; Hungry Innovators, All rights reserved.",
-        "has_social": true,
-        "social_links": [
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Twitter",
-                "url": "https://www.twitter.com/hungryinnovator",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/hungryinnovators",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "LinkedIn",
-                "url": "https://au.linkedin.com/company/hungryinnovators",
-                "style": "icon",
-                "icon": "linkedin",
-                "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/hungryinnovators",
-                "style": "icon",
-                "icon": "facebook",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
-    },
-    "domain": "https://hungryinnovators.com.au/"
+  "title": "Hungry Innovators - Network of peers and Innovators",
+  "color_scheme": "light",
+  "accent_color": "blue",
+  "header": {
+    "type": "header",
+    "template": "header",
+    "title": "Hungry Innovators",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "type": "action",
+        "template": "action",
+        "label": "Home",
+        "url": "/",
+        "style": "link",
+        "icon": "",
+        "new_window": false,
+        "no_follow": false
+      },
+      {
+        "type": "action",
+        "template": "action",
+        "label": "About",
+        "url": "/about/",
+        "style": "link",
+        "icon": "",
+        "new_window": false,
+        "no_follow": false
+      },
+      {
+        "type": "action",
+        "template": "action",
+        "label": "Services",
+        "url": "/portfolio/",
+        "style": "link",
+        "icon": "",
+        "new_window": false,
+        "no_follow": false
+      },
+      {
+        "type": "action",
+        "template": "action",
+        "label": "Get Involved",
+        "url": "/get-involved/",
+        "style": "link",
+        "icon": "",
+        "new_window": false,
+        "no_follow": false
+      },
+      {
+        "type": "action",
+        "template": "action",
+        "label": "Blog",
+        "url": "/blog/",
+        "style": "link",
+        "icon": "",
+        "new_window": false,
+        "no_follow": false
+      },
+      {
+        "type": "action",
+        "template": "action",
+        "label": "Contact",
+        "url": "/contact/",
+        "style": "link",
+        "icon": "",
+        "new_window": false,
+        "no_follow": false
+      }
+    ],
+    "logo_img": "",
+    "logo_img_alt": ""
+  },
+  "footer": {
+    "type": "footer",
+    "template": "footer",
+    "content": "&copy; Hungry Innovators, All rights reserved.",
+    "has_social": true,
+    "social_links": [
+      {
+        "type": "action",
+        "template": "action",
+        "label": "Twitter",
+        "url": "https://www.twitter.com/hungryinnovator",
+        "style": "icon",
+        "icon": "twitter",
+        "new_window": true,
+        "no_follow": false
+      },
+      {
+        "type": "action",
+        "template": "action",
+        "label": "Instagram",
+        "url": "https://www.instagram.com/hungryinnovators",
+        "style": "icon",
+        "icon": "instagram",
+        "new_window": true,
+        "no_follow": false
+      },
+      {
+        "type": "action",
+        "template": "action",
+        "label": "LinkedIn",
+        "url": "https://au.linkedin.com/company/hungryinnovators",
+        "style": "icon",
+        "icon": "linkedin",
+        "new_window": true,
+        "no_follow": false
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/hungryinnovators",
+        "style": "icon",
+        "icon": "facebook",
+        "new_window": false,
+        "no_follow": false,
+        "type": "action"
+      }
+    ],
+    "links": [
+
+    ]
+  },
+  "domain": "https://hungryinnovators.com.au/",
+  "favicon": ""
 }
