@@ -21,7 +21,10 @@ seo:
       value: Project Title 2
       keyName: property
     - name: 'og:description'
-      value: This is the project 2 description
+      value: >+
+        Building future of a generation of Founders. We are building this work
+        through our incubation and acceleration program.
+
       keyName: property
     - name: 'og:image'
       value: images/2.jpg
