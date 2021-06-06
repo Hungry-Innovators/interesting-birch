@@ -2,7 +2,7 @@
 title: Join our Community
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Join Our Community
   description: ''
   robots: []
   extra: []
