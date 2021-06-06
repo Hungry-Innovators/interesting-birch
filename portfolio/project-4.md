@@ -1,6 +1,5 @@
 ---
 title: Entrepreneurship and Social Support
-subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: /images/daniel-thomas-HA-0i0E7sq4-unsplash.jpg
 image: /images/daniel-thomas-HA-0i0E7sq4-unsplash.jpg
