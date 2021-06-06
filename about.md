@@ -4,7 +4,7 @@ image_alt: A man taking a picture
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: About Us
+  title: About Us - Hungry Innovators
   description: This is the about us page
   extra:
     - name: 'og:type'
