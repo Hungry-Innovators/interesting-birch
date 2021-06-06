@@ -3,7 +3,7 @@ title: Community
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/priscilla-du-preez-XkKCui44iM0-unsplash.jpg
-image: images/1.jpg
+image: /images/priscilla-du-preez-XkKCui44iM0-unsplash.jpg
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
