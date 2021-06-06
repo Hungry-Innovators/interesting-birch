@@ -31,7 +31,9 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: >-
+        Tips and advice to grow your career and in life. This is the Hungry
+        Innovators Blog.
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
