@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Entrepreneurship and Social Support
+      value: Entrepreneurship and Social Support - Hungry Innovators
       keyName: property
     - name: 'og:description'
       value: This is the project 4 description
