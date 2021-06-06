@@ -21,8 +21,8 @@
       {
         "type": "action",
         "template": "action",
-        "label": "Services",
-        "url": "/portfolio/",
+        "label": "About",
+        "url": "/about/",
         "style": "link",
         "icon": "",
         "new_window": false,
@@ -31,8 +31,8 @@
       {
         "type": "action",
         "template": "action",
-        "label": "Blog",
-        "url": "/blog/",
+        "label": "Services",
+        "url": "/portfolio/",
         "style": "link",
         "icon": "",
         "new_window": false,
@@ -51,8 +51,8 @@
       {
         "type": "action",
         "template": "action",
-        "label": "About",
-        "url": "/about/",
+        "label": "Blog",
+        "url": "/blog/",
         "style": "link",
         "icon": "",
         "new_window": false,
