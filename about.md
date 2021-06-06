@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: About Us - Hungry Innovators
     - name: 'twitter:description'
       value: >-
         A thriving network of peers and innovators. Dedicated to inspiring the
