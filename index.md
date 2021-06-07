@@ -4,12 +4,11 @@ hide_title: true
 sections:
   - type: section_hero
     template: section_hero
-    title: 'Big Ideas, Making Big Impact.'
+    title: Big Ideas Making Big Impact.
     section_id: hero
-    content: >+
-      We are a thriving network of peers and innovators. We are nurturing a
-      generation of Innovators, business leaders, and Founders.
-
+    content: >
+      We are a thriving network of peers and innovators nurturing the next
+      generation of innovators, business leaders, and founders.
     actions:
       - type: action
         template: action
@@ -129,8 +128,8 @@ seo:
   template: stackbit_page_meta
   title: Hungry Innovators - Network of peers and Innovators
   description: >-
-    We are a thriving network of peers and innovators. We are nurturing a
-    generation of Innovators, business leaders, and Founders.
+    We are a thriving network of peers and innovators nurturing the next
+    generation of innovators, business leaders, and founders.
   extra:
     - name: 'og:type'
       value: website
@@ -142,8 +141,8 @@ seo:
       relativeUrl: false
     - name: 'og:description'
       value: >-
-        We are a thriving network of peers and innovators. We are nurturing a
-        generation of Innovators, business leaders, and Founders.
+        We are a thriving network of peers and innovators nurturing the next
+        generation of innovators, business leaders, and founders.
       keyName: property
       relativeUrl: false
     - name: 'og:image'
@@ -161,8 +160,8 @@ seo:
       relativeUrl: false
     - name: 'twitter:description'
       value: >-
-        We are a thriving network of peers and innovators. We are nurturing a
-        generation of Innovators, business leaders, and Founders.
+        We are a thriving network of peers and innovators nurturing the next
+        generation of innovators, business leaders, and founders.
       keyName: ''
       relativeUrl: false
     - name: 'twitter:image'
