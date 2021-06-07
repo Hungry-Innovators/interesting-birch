@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     template: section_hero
-    title: 'Big Ideas, Making Big Impact.'
+    title: Big Ideas Making Big Impact.
     section_id: hero
     content: >
       We are a thriving network of peers and innovators nurturing the next
