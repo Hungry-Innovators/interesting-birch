@@ -6,10 +6,9 @@ sections:
     template: section_hero
     title: 'Big Ideas, Making Big Impact.'
     section_id: hero
-    content: >+
-      We are a thriving network of peers and innovators. We are nurturing a
-      generation of Innovators, business leaders, and Founders.
-
+    content: >
+      We are a thriving network of peers and innovators nurturing the next
+      generation of innovators, business leaders, and founders.
     actions:
       - type: action
         template: action
