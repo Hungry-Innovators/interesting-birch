@@ -1,6 +1,8 @@
 ---
 title: Services
-subtitle: 'The Hungry Innovators offering the following:'
+subtitle: >-
+  We work at the intersection of Entrepreneurship and Innovations to creating
+  long-lasting social change.
 layout_style: tiles
 seo:
   type: stackbit_page_meta
