@@ -128,8 +128,8 @@ seo:
   template: stackbit_page_meta
   title: Hungry Innovators - Network of peers and Innovators
   description: >-
-    We are a thriving network of peers and innovators. We are nurturing a
-    generation of Innovators, business leaders, and Founders.
+    We are a thriving network of peers and innovators nurturing the next
+    generation of innovators, business leaders, and founders.
   extra:
     - name: 'og:type'
       value: website
