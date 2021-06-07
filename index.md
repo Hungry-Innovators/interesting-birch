@@ -141,8 +141,8 @@ seo:
       relativeUrl: false
     - name: 'og:description'
       value: >-
-        We are a thriving network of peers and innovators. We are nurturing a
-        generation of Innovators, business leaders, and Founders.
+        We are a thriving network of peers and innovators nurturing the next
+        generation of innovators, business leaders, and founders.
       keyName: property
       relativeUrl: false
     - name: 'og:image'
