@@ -1,7 +1,7 @@
 {
     "title": "Hungry Innovators - Network of peers and Innovators",
     "color_scheme": "light",
-    "accent_color": "yellow",
+    "accent_color": "green",
     "header": {
         "type": "header",
         "template": "header",
