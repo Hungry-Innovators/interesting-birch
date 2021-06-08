@@ -119,7 +119,7 @@
             },
             {
                 "label": "Email",
-                "url": "mailto:b",
+                "url": "mailto:",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
