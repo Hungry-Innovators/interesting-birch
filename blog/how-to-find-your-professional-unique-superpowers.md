@@ -56,6 +56,7 @@ thumb_image_alt: ''
 image: /images/professional_unique_superpowers.png
 image_alt: ''
 excerpt: ''
+thumb_image: /images/professional_unique_superpowers.png
 ---
 According to [Harvard Business Review](https://hbr.org/2005/01/how-to-play-to-your-strengths), leaders who focus on identifying and leveraging their strengths reach their full potential. Tapping into your strengths not only helps you become a well-rounded leader but gives you the confidence to strive for moonshot goals and take on more challenges.
 
