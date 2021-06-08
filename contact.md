@@ -73,7 +73,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact - Hungry Innovators
+      value: Get In touch With Us - Hungry Innovators
     - name: 'twitter:description'
       value: >-
         Please feel free to drop a message if you want to talk about business
