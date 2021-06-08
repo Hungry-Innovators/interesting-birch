@@ -5,10 +5,15 @@ sections:
   - type: section_form
     template: section_form
     section_id: contact-form
-    content: >
+    content: >+
       Please feel free to drop a message if you want to talk about business
       opportunities. Fill the contact form below or send us an email at
       <support@hungryinnovators.com.au>.
+
+
+      Fields marked with an \* are required
+
+
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -17,14 +22,14 @@ sections:
         input_type: text
         name: name
         label: Name
-        default_value: Your name
+        default_value: Full Name *
         is_required: true
       - type: form_field
         template: form_field
         input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Email address *
         is_required: true
       - type: form_field
         template: form_field
@@ -36,12 +41,13 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
+        is_required: true
       - type: form_field
         template: form_field
         input_type: textarea
         name: message
         label: Message
-        default_value: Your message
+        default_value: Message *
         is_required: true
       - type: form_field
         template: form_field
@@ -54,7 +60,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Contact
+  title: Get In touch With Us - Hungry Innovators
   description: >-
     Please feel free to drop a message if you want to talk about business
     opportunities. Fill the contact form below or send us an email.
@@ -63,7 +69,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact - Hungry Innovators
+      value: Get In touch With Us - Hungry Innovators
       keyName: property
     - name: 'og:description'
       value: >-
@@ -73,7 +79,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact - Hungry Innovators
+      value: Get In touch With Us - Hungry Innovators
     - name: 'twitter:description'
       value: >-
         Please feel free to drop a message if you want to talk about business
