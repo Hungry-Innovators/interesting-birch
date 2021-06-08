@@ -75,7 +75,7 @@
     "footer": {
         "type": "footer",
         "template": "footer",
-        "content": "&copy; Hungry Innovators, All rights reserved.",
+        "content": "© Hungry Innovators Technologies Inc, All rights reserved.",
         "has_social": true,
         "social_links": [
             {
