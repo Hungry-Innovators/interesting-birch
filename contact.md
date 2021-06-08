@@ -41,6 +41,7 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
+        is_required: true
       - type: form_field
         template: form_field
         input_type: textarea
