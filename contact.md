@@ -34,7 +34,7 @@ sections:
       - type: form_field
         template: form_field
         input_type: select
-        name: subject *
+        name: subject
         label: Subject
         default_value: Please select
         options:
