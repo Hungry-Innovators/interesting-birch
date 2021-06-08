@@ -44,7 +44,7 @@ seo:
       relativeUrl: false
 layout: project
 ---
-If you’re aged between 14 and 25 years of age Hungry Innovators can provide you with specialist, one on one support to help you find work.
+We help young people create their future jobs. If you’re aged between 15 and 25 years of age Hungry Innovators can provide you with specialist, one on one support to help you find work or create your future job.
 
 Hungry Innovators can help you identify your career objectives and will work with you to make sure you’re on track to achieving your goals through
 
@@ -59,3 +59,5 @@ Hungry Innovators can help you identify your career objectives and will work wit
 5.  Counseling and support
 
 Hungry Innovators will even continue to support you once you have found work to make sure you’re happy with your career pathway and to keep you on track to maintaining employment.
+
+[**Learn More**](https://hungryinnovators.com.au/contact/)
