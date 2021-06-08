@@ -63,7 +63,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact - Hungry Innovators
+      value: Get In touch With Us - Hungry Innovators
       keyName: property
     - name: 'og:description'
       value: >-
