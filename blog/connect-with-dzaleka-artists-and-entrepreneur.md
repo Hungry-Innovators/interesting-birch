@@ -55,3 +55,6 @@ Dzaleka refugee camp is home to over 41,00 refugees and asylum seekers, who are 
 Visit [Dzaleka Connect](https://dzalekaconnect.com/) to learn more, support, or get involved in this important project.
 
 Join the community today, by visiting [dzalekaconnect.com](http://my.dzalekaconnect.com/)
+
+*originally published on *[*gwapper.com*](https://www.gwapper.com/2021/05/connect-with-dzaleka-artists.html)**
+
