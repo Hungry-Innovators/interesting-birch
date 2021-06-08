@@ -4,7 +4,7 @@ seo:
   title: Connect with Dzaleka Artists, Entrepreneurs and Creators
   description: Dzaleka Connect is an online portal and directory dedicated to connecting
     people who have one main thing in common – Dzaleka Refugee Camp in Malawi, Africa
-    – and a desire to better the lives of those who live or have lived there.'
+    – and a desire to better the lives of those who live or have lived there.
   robots: []
   extra: []
 layout: post
