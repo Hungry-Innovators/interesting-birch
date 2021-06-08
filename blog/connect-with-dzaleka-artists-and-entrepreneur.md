@@ -56,5 +56,6 @@ Visit [Dzaleka Connect](https://dzalekaconnect.com/) to learn more, support, o
 
 Join the community today, by visiting [dzalekaconnect.com](http://my.dzalekaconnect.com/)
 
-*originally published on *[*gwapper.com*](https://www.gwapper.com/2021/05/connect-with-dzaleka-artists.html)**
+**
 
+*originally published on *[*gwapper.com*](https://www.gwapper.com/2021/05/connect-with-dzaleka-artists.html)
