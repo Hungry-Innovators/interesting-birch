@@ -15,7 +15,11 @@ seo:
     there.'
 
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: 'Connect with Dzaleka Artists, Entrepreneurs and Creators'
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/malawi_education_hp_image-jpg__1264x568_q85_crop_subsampling-2.jpg
