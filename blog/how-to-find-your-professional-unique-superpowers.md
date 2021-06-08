@@ -52,7 +52,6 @@ subtitle: >-
   According to Harvard Business Review, leaders who focus on identifying and
   leveraging their strengths reach their full potential
 date: '2021-06-05 14:00:00 +0000'
-thumb_image: /images/professional_unique_superpowers.png
 thumb_image_alt: ''
 image: /images/professional_unique_superpowers.png
 image_alt: ''
