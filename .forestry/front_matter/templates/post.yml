@@ -53,4 +53,5 @@ fields:
   config:
     required: true
 pages:
+- blog/connect-with-dzaleka-artists-entrepreneurs-and-creators.md
 - blog/how-to-find-your-professional-unique-superpowers.md
