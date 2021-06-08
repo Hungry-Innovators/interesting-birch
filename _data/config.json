@@ -118,7 +118,17 @@
                 "type": "action"
             }
         ],
-        "links": []
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "domain": "https://hungryinnovators.com.au/",
     "favicon": "/images/download.png"
