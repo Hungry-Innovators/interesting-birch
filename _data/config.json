@@ -86,7 +86,7 @@
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true,
-                "no_follow": false
+                "no_follow": true
             },
             {
                 "type": "action",
@@ -96,7 +96,7 @@
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true,
-                "no_follow": false
+                "no_follow": true
             },
             {
                 "type": "action",
@@ -106,15 +106,24 @@
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true,
-                "no_follow": false
+                "no_follow": true
             },
             {
                 "label": "Facebook",
                 "url": "https://www.facebook.com/hungryinnovators",
                 "style": "icon",
                 "icon": "facebook",
-                "new_window": false,
-                "no_follow": false,
+                "new_window": true,
+                "no_follow": true,
+                "type": "action"
+            },
+            {
+                "label": "YouTube",
+                "url": "https://www.youtube.com/channel/UC4HQIEf-xkP1m5JcviF5Zjw",
+                "style": "icon",
+                "icon": "youtube",
+                "new_window": true,
+                "no_follow": true,
                 "type": "action"
             }
         ],
