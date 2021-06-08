@@ -54,7 +54,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Contact - Hungry Innovators
+  title: Get In touch With Us - Hungry Innovators
   description: >-
     Please feel free to drop a message if you want to talk about business
     opportunities. Fill the contact form below or send us an email.
