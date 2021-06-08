@@ -31,6 +31,12 @@ seo:
       value: 'Connect with Dzaleka Artists, Entrepreneurs and Creators'
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Dzaleka Connect is an online portal and directory dedicated to
+        connecting people who have one main thing in common.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/malawi_education_hp_image-jpg__1264x568_q85_crop_subsampling-2.jpg
