@@ -123,7 +123,6 @@ sections:
         icon: ''
         new_window: false
         no_follow: false
-  
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
