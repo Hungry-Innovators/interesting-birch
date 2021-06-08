@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/malawi_education_hp_image-jpg__1264x568_q85_crop_subsampling-2.jpg
+image: /images/malawi_education_hp_image-jpg__1264x568_q85_crop_subsampling-2.jpg
 ---
 ## Lorem ipsum
 
