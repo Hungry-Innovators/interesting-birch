@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Connect with Dzaleka Artists, Entrepreneurs and Creators'
 subtitle: lorem-ipsum
 date: '2021-06-08'
 thumb_image_alt: lorem-ipsum
