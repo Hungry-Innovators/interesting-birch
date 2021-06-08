@@ -106,7 +106,7 @@
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true,
-                "no_follow": false
+                "no_follow": true
             },
             {
                 "label": "Facebook",
