@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Web Development
 subtitle: lorem-ipsum
 date: '2021-09-13'
 thumb_image_alt: lorem-ipsum
