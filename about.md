@@ -43,16 +43,16 @@ layout: page
 
 A thriving network of peers and innovators. Dedicated to inspiring the next generation of innovators. We are nurturing a generation of Innovators, business leaders, and Founders.
 
-> We’re building a dynamic community of business leaders, social innovators, Founders committed to solving global issues.
+We are a marketing agency that delivers more – a team of creative thinkers and go-getters who are proud to have helped many businesses grow and evolve into their very best versions of themselves. We create engaging digital marketing campaigns.
+
+## History
+
+Founded on Oct 4, 2016, With its headquarters in Brisbane, Australia
 
 ### Purpose
 
-Our founding team is dedicated to solving a problem, but we need your help. If you are interested in being part of a wonderful solution, Hungry Innovators is the perfect place!
-
-We work at the intersection of Entrepreneurship and Innovations, connecting our expertise and global networks to emerging leaders creating long-lasting social change.
+Our founding team is dedicated to solving a problem, but we need your help. If you are interested in being part of a wonderful solution, Hungry Innovators is the perfect place. We work at the intersection of Entrepreneurship and Innovations, connecting our expertise and global networks to emerging leaders creating long-lasting social change. We are continuously evolving to become an industry leader in the vibrant field of web technologies.
 
 ### Mission
 
-Hungry Innovator's mission is to empower youth with technological skills and inspire the next generation of innovators and digital creators.
-
-We provide the tools they need to bring their solutions to life and lead transformative change.
+Our mission is to transform our clients’ businesses, allowing them to utilise powerful technologies and improve their processes. We build websites, solve problems, set up systems and design stuff to help small business take the lead from their competition.

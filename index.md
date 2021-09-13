@@ -4,11 +4,9 @@ hide_title: true
 sections:
   - type: section_hero
     template: section_hero
-    title: Big Ideas Making Big Impact.
+    title: Pushing boundaries one byte at a time.
     section_id: hero
-    content: >
-      We are a thriving network of peers and innovators nurturing the next
-      generation of innovators, business leaders, and founders.
+    content: "We specialise in\_web design,\_digital consultancy & brand strategy and products that are simple, beautiful and helps businesses grow.\n"
     actions:
       - type: action
         template: action
@@ -18,6 +16,13 @@ sections:
         icon: ''
         new_window: false
         no_follow: false
+      - label: Get a Quote Now
+        url: /contact-us
+        style: button
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   - type: section_portfolio
     template: section_portfolio
     title: Our Services
@@ -26,7 +31,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-    subtitle: ''
+    subtitle: How we can help you?
   - type: section_grid
     template: section_grid
     title: What We Do
@@ -37,31 +42,27 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Community
-        content: >+
-          We’re building a strong community of young people who are learning to
-          code and support them with our network of mentors, investors, and
-          Founders.
-
-
+        title: WordPress web design and development services.
+        content: >
+          Our WordPress web design process begins with a sit down with you.
+          During this, we would need you to complete an elaborate brief and
+          provide information on functionality and what you want your site to
+          achieve within the context of your business.
         image: ''
         image_alt: ''
         actions: []
       - type: grid_item
         template: grid_item
-        title: Education
-        content: >+
-          We work with leaders who believe in universal access to education and
-          are driving a wide range of innovative approaches to teach, mentoring,
-          and learning for young people.
-
-
+        title: Audience Strategy & Digital Marketing
+        content: >
+          Identifying Target Audiences, In-Depth Audience Profiling, Data Mining
+          & Insights and more.
         image: ''
         image_alt: ''
         actions: []
       - type: grid_item
         template: grid_item
-        title: Climate Change
+        title: Brand Strategy
         content: >+
           We support bold ideas for forest regeneration and protecting our
           biodiversity that is essential to mitigating climate change.
@@ -72,16 +73,24 @@ sections:
         actions: []
       - type: grid_item
         template: grid_item
-        title: Entrepreneurship and Social Support
-        content: >+
-          We aim to empower young entrepreneurs with ICT and Business skills. We
-          provide the tools they need to bring their solutions to life and lead
-          transformative change.
-
-
+        title: Website Development
+        content: >
+          Looking to build a new website or transform an existing one? We create
+          engaging websites that offer the very best in user experience.
         image: ''
         image_alt: ''
         actions: []
+  - title: Let’s chat about how we can help!
+    section_id: lorem-ipsum
+    content: >
+      Got a project that you would like to discuss? Look no further than Hungry
+      Innovators, your personal guide to finding online success.
+    form_id: lorem-ipsum
+    form_action: /contact-us
+    form_fields: []
+    submit_label: contact Us
+    type: section_form
+    template: section_form
   - type: section_testimonials
     template: section_testimonials
     title: Recommended by
