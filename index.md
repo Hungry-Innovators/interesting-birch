@@ -54,7 +54,7 @@ sections:
           - Web development
           - Digital Marketing
           - Social Media Marketing
-          - lorem-ipsum
+          - Community Building
         is_required: false
         type: form_field
       - input_type: textarea
