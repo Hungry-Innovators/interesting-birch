@@ -45,7 +45,7 @@ sections:
     type: section_grid
     template: section_grid
 seo:
-  title: ''
+  title: Digital Marketing
   description: ''
   robots: []
   extra: []
