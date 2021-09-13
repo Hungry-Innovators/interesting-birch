@@ -50,7 +50,8 @@ sections:
       - input_type: text
         name: Enquiry type
         label: Enquiry type
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: textarea
