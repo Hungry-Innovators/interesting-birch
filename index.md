@@ -47,6 +47,13 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: Contact Us
     type: section_form
     template: section_form
