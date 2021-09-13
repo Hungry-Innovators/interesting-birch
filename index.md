@@ -96,7 +96,7 @@ sections:
     form_id: lorem-ipsum
     form_action: Contact Us
     form_fields: []
-    submit_label: lorem-ipsum
+    submit_label: contact
     type: section_form
     template: section_form
   - type: section_testimonials
