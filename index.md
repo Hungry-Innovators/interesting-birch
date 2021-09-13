@@ -53,7 +53,7 @@ sections:
         actions: []
       - type: grid_item
         template: grid_item
-        title: Audience Strategy
+        title: Audience Strategy & Digital Marketing
         content: >
           Identifying Target Audiences, In-Depth Audience Profiling, Data Mining
           & Insights and more.
