@@ -9,7 +9,7 @@ sections:
     actions: []
     type: section_hero
     template: section_hero
-  - title: lorem-ipsum
+  - title: OUTPERFORM THE COMPETITION
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
