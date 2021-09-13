@@ -54,7 +54,7 @@ sections:
         actions: []
       - type: grid_item
         template: grid_item
-        title: Education
+        title: Audience Strategy
         content: >+
           We work with leaders who believe in universal access to education and
           are driving a wide range of innovative approaches to teach, mentoring,
