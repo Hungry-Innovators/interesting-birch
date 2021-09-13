@@ -2,7 +2,7 @@
 title: Contact
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: To get in touch
     section_id: lorem-ipsum
     content: |
       ###### **Visit Us**
