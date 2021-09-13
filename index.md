@@ -53,6 +53,7 @@ sections:
         options:
           - Web development
           - Digital Marketing
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: textarea
