@@ -45,7 +45,7 @@ sections:
         label: Email
         default_value: Email address
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: select
         name: Enquiry type
