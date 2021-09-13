@@ -40,6 +40,10 @@ seo:
       value: Web Development
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Web Development
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 thumb_image: /images/charles-deluvio-Lks7vei-eAg-unsplash.jpeg
