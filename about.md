@@ -43,7 +43,11 @@ layout: page
 
 A thriving network of peers and innovators. Dedicated to inspiring the next generation of innovators. We are nurturing a generation of Innovators, business leaders, and Founders.
 
-> We’re building a dynamic community of business leaders, social innovators, Founders committed to solving global issues.
+## History
+
+FOunded on Oct 4, 2016. With its headquarters in Brisbane, Australia
+
+*
 
 ### Purpose
 
@@ -53,6 +57,4 @@ We work at the intersection of Entrepreneurship and Innovations, connecting our 
 
 ### Mission
 
-Hungry Innovator's mission is to empower youth with technological skills and inspire the next generation of innovators and digital creators.
-
-We provide the tools they need to bring their solutions to life and lead transformative change.
+Our mission is to transform our clients’ businesses, allowing them to utilise powerful technologies and improve their processes. We build websites, solve problems, set up systems and design stuff to help small business take the lead from their competition.
