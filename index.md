@@ -31,7 +31,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-    subtitle: ''
+    subtitle: How we can help you?
   - type: section_grid
     template: section_grid
     title: What We Do
