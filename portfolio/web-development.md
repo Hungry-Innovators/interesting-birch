@@ -1,6 +1,6 @@
 ---
 title: Web Development
-subtitle: We've helped businesses design their websites and digital presence.
+subtitle: Web application that brings your ideas to life
 date: '2021-09-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
