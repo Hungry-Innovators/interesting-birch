@@ -57,7 +57,7 @@ sections:
           - Social Media Marketing
           - Community Building
           - Other
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: textarea
         name: Message
