@@ -51,7 +51,7 @@ sections:
         name: Enquiry type
         label: Enquiry type
         options:
-          - lorem-ipsum
+          - Web development
         is_required: false
         type: form_field
       - input_type: textarea
