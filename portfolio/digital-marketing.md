@@ -30,6 +30,10 @@ seo:
       value: Digital Marketing
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Digital Marketing
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
