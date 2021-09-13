@@ -36,6 +36,7 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 layout: project
+thumb_image: /images/merakist-CNbRsQj8mHQ-unsplash.jpeg
 ---
 ## SEO
 
