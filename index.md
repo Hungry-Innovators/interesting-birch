@@ -72,7 +72,7 @@ sections:
         actions: []
       - type: grid_item
         template: grid_item
-        title: Entrepreneurship and Social Support
+        title: Website Development
         content: >+
           We aim to empower young entrepreneurs with ICT and Business skills. We
           provide the tools they need to bring their solutions to life and lead
