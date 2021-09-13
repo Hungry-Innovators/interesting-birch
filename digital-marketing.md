@@ -36,17 +36,11 @@ sections:
         type: grid_item
       - title: Google Ads
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Pay-per-click advertising through Google Ads is an effective way to
+          drive visitors to your website for the first time, or to get the most
+          exposure possible for a deal or promotion.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
     type: section_grid
