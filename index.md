@@ -51,12 +51,12 @@ sections:
         name: Enquiry type
         label: Enquiry type
         options:
+          - General
           - Web development
           - Digital Marketing
           - Social Media Marketing
           - Community Building
           - Other
-          - General
         is_required: false
         type: form_field
       - input_type: textarea
