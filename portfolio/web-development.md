@@ -1,6 +1,6 @@
 ---
 title: Web Development
-subtitle: lorem-ipsum
+subtitle: We've helped businesses design their websites and digital presence.
 date: '2021-09-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
