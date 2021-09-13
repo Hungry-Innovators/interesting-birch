@@ -28,67 +28,43 @@ sections:
     title: Our Services
     section_id: latest-projects
     layout_style: tiles
-    projects_number: 6
+    projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
     subtitle: How we can help you?
-  - type: section_grid
-    template: section_grid
-    title: What We Do
-    section_id: services
-    subtitle: 'Hungry Innovators offer''s the following:'
-    col_number: two
-    is_numbered: true
-    grid_items:
-      - type: grid_item
-        template: grid_item
-        title: WordPress web design and development services.
-        content: >
-          Our WordPress web design process begins with a sit down with you.
-          During this, we would need you to complete an elaborate brief and
-          provide information on functionality and what you want your site to
-          achieve within the context of your business.
-        image: ''
-        image_alt: ''
-        actions: []
-      - type: grid_item
-        template: grid_item
-        title: Audience Strategy & Digital Marketing
-        content: >
-          Identifying Target Audiences, In-Depth Audience Profiling, Data Mining
-          & Insights and more.
-        image: ''
-        image_alt: ''
-        actions: []
-      - type: grid_item
-        template: grid_item
-        title: Brand Strategy
-        content: >+
-          We support bold ideas for forest regeneration and protecting our
-          biodiversity that is essential to mitigating climate change.
-
-
-        image: ''
-        image_alt: ''
-        actions: []
-      - type: grid_item
-        template: grid_item
-        title: Website Development
-        content: >
-          Looking to build a new website or transform an existing one? We create
-          engaging websites that offer the very best in user experience.
-        image: ''
-        image_alt: ''
-        actions: []
   - title: Let’s chat about how we can help!
     section_id: lorem-ipsum
     content: >
       Got a project that you would like to discuss? Look no further than Hungry
       Innovators, your personal guide to finding online success.
     form_id: lorem-ipsum
-    form_action: /contact-us
-    form_fields: []
-    submit_label: contact Us
+    form_action: /thank-you
+    form_fields:
+      - input_type: email
+        name: Email
+        label: Email
+        default_value: Email address
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
+        name: Enquiry type
+        label: Enquiry type
+        options:
+          - Web development
+          - Digital Marketing
+          - Social Media Marketing
+          - Community Building
+          - Other
+        is_required: false
+        type: form_field
+      - input_type: textarea
+        name: Message
+        label: Message
+        options: []
+        is_required: true
+        type: form_field
+    submit_label: Send
     type: section_form
     template: section_form
   - type: section_testimonials
