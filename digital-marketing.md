@@ -51,7 +51,14 @@ seo:
     Digital Marketing specialist today and see what options are available to
     help your business generate leads.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        Increase traffic, enquires, engagement & sales. Speak to a Hungry
+        Innovators Digital Marketing specialist today and see what options are
+        available to help your business generate leads.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
