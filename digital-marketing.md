@@ -27,17 +27,11 @@ sections:
         type: grid_item
       - title: Social Media Marketing
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Online marketing has changed extensively over the years and you need a
+          mix of the right people for success. Our Social Media plans focus on
+          getting leads for prospects within each niche of the businesses
+          offerings and look to generate measurable results.
         actions: []
         type: grid_item
     type: section_grid
