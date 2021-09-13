@@ -6,7 +6,12 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
   title: Web Development
-  description: ''
+  description: >+
+    We are able to create custom web applications that focus extensively on the
+    individual needs of your business and enable you to incorporate custom
+    functionality to achieve a specific goal.
+
+
   robots: []
   extra: []
   type: stackbit_page_meta
