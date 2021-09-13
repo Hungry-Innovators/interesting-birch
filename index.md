@@ -82,17 +82,9 @@ sections:
         actions: []
   - title: Let’s chat about how we can help!
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Got a project that you would like to discuss? Look no further than Hungry
+      Innovators, your personal guide to finding online success.
     form_id: lorem-ipsum
     form_action: Contact Us
     form_fields: []
