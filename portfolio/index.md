@@ -3,7 +3,7 @@ title: Services
 subtitle: >-
   We work at the intersection of Entrepreneurship and Innovations to creating
   long-lasting social change. Our services includes:-
-layout_style: mosaic
+layout_style: tiles
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
