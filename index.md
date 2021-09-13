@@ -52,7 +52,7 @@ sections:
         label: Message
         default_value: Message
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Contact Us
     type: section_form
