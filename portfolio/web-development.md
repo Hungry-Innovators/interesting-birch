@@ -18,6 +18,10 @@ seo:
       value: /images/charles-deluvio-Lks7vei-eAg-unsplash.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/charles-deluvio-Lks7vei-eAg-unsplash.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: project
 thumb_image: /images/charles-deluvio-Lks7vei-eAg-unsplash.jpeg
