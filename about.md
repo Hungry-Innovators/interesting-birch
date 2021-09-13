@@ -51,7 +51,7 @@ Founded on Oct 4, 2016, With its headquarters in Brisbane, Australia
 
 ### Purpose
 
-Our founding team is dedicated to solving a problem, but we need your help. If you are interested in being part of a wonderful solution, Hungry Innovators is the perfect place. We work at the intersection of Entrepreneurship and Innovations, connecting our expertise and global networks to emerging leaders creating long-lasting social change.
+Our founding team is dedicated to solving a problem, but we need your help. If you are interested in being part of a wonderful solution, Hungry Innovators is the perfect place. We work at the intersection of Entrepreneurship and Innovations, connecting our expertise and global networks to emerging leaders creating long-lasting social change. We are continuously evolving to become an industry leader in the vibrant field of web technologies.
 
 ### Mission
 
