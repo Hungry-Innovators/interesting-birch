@@ -82,7 +82,6 @@ sections:
         actions: []
   - title: Let’s chat about how we can help!
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
