@@ -73,12 +73,9 @@ sections:
       - type: grid_item
         template: grid_item
         title: Website Development
-        content: >+
-          We aim to empower young entrepreneurs with ICT and Business skills. We
-          provide the tools they need to bring their solutions to life and lead
-          transformative change.
-
-
+        content: >
+          Looking to build a new website or transform an existing one? We create
+          engaging websites that offer the very best in user experience.
         image: ''
         image_alt: ''
         actions: []
