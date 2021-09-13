@@ -39,7 +39,14 @@ sections:
       Innovators, your personal guide to finding online success.
     form_id: lorem-ipsum
     form_action: /contact-us
-    form_fields: []
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: contact Us
     type: section_form
     template: section_form
