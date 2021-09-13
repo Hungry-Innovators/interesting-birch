@@ -16,7 +16,7 @@ sections:
         icon: ''
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: Get a Quote Now
         url: '#'
         style: link
         icon: dribbble
