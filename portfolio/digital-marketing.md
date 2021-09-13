@@ -19,3 +19,7 @@ Search engine optimisation is a vital part of digital marketing and without ongo
 ## Social Media Marketing
 
 Online marketing has changed extensively over the years and you need a mix of the right people for success. Our Social Media plans focus on getting leads for prospects within each niche of the businesses offerings and look to generate measurable results.
+
+## Google Ads
+
+Pay-per-click advertising through Google Ads is an effective way to drive visitors to your website for the first time, or to get the most exposure possible for a deal or promotion.
