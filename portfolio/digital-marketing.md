@@ -6,7 +6,10 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
   title: Digital Marketing
-  description: ''
+  description: >-
+    Increase traffic, enquires, engagement & sales. Speak to a Hungry Innovators
+    Digital Marketing specialist today and see what options are available to
+    help your business generate leads.
   robots: []
   extra:
     - name: 'og:description'
