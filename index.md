@@ -94,7 +94,7 @@ sections:
 
       - dolor sit amet
     form_id: lorem-ipsum
-    form_action: lorem-ipsum
+    form_action: C
     form_fields: []
     submit_label: lorem-ipsum
     type: section_form
