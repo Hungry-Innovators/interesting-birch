@@ -66,6 +66,10 @@ seo:
         available to help your business generate leads.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Digital Marketing
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
