@@ -12,9 +12,6 @@ seo:
   type: stackbit_page_meta
 layout: project
 ---
-## Lorem ipsum
+## Web application that brings your ideas to life
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Your website is literally the digital face that your business presents to the world. It needs to look fantastic, reflect your unique brand identity, tell the world what you do, support the goals of your business, and function well. It also needs to get you seen by the right audience online.
