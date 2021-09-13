@@ -50,7 +50,6 @@ sections:
       - input_type: textarea
         name: Message
         label: Message
-        default_value: Message
         options: []
         is_required: true
         type: form_field
