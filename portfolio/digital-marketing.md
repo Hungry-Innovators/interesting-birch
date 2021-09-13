@@ -5,7 +5,7 @@ date: '2021-09-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Digital Marketing
   description: ''
   robots: []
   extra:
