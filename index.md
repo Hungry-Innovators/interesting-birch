@@ -80,7 +80,7 @@ sections:
         image: ''
         image_alt: ''
         actions: []
-  - title: lorem-ipsum
+  - title: Let’s chat about how we can help!
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
