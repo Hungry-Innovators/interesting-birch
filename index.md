@@ -16,6 +16,13 @@ sections:
         icon: ''
         new_window: false
         no_follow: false
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   - type: section_portfolio
     template: section_portfolio
     title: Our Services
