@@ -32,54 +32,6 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
     subtitle: How we can help you?
-  - type: section_grid
-    template: section_grid
-    title: What We Do
-    section_id: services
-    subtitle: 'Hungry Innovators offer''s the following:'
-    col_number: two
-    is_numbered: true
-    grid_items:
-      - type: grid_item
-        template: grid_item
-        title: WordPress web design and development services.
-        content: >
-          Our WordPress web design process begins with a sit down with you.
-          During this, we would need you to complete an elaborate brief and
-          provide information on functionality and what you want your site to
-          achieve within the context of your business.
-        image: ''
-        image_alt: ''
-        actions: []
-      - type: grid_item
-        template: grid_item
-        title: Audience Strategy & Digital Marketing
-        content: >
-          Identifying Target Audiences, In-Depth Audience Profiling, Data Mining
-          & Insights and more.
-        image: ''
-        image_alt: ''
-        actions: []
-      - type: grid_item
-        template: grid_item
-        title: Brand Strategy
-        content: >+
-          We support bold ideas for forest regeneration and protecting our
-          biodiversity that is essential to mitigating climate change.
-
-
-        image: ''
-        image_alt: ''
-        actions: []
-      - type: grid_item
-        template: grid_item
-        title: Website Development
-        content: >
-          Looking to build a new website or transform an existing one? We create
-          engaging websites that offer the very best in user experience.
-        image: ''
-        image_alt: ''
-        actions: []
   - title: Let’s chat about how we can help!
     section_id: lorem-ipsum
     content: >
