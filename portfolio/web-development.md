@@ -29,6 +29,13 @@ seo:
         custom functionality to achieve a specific goal.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >
+        We are able to create custom web applications that focus extensively on
+        the individual needs of your business and enable you to incorporate
+        custom functionality to achieve a specific goal.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 thumb_image: /images/charles-deluvio-Lks7vei-eAg-unsplash.jpeg
