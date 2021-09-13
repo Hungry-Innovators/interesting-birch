@@ -42,7 +42,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Community
+        title: WordPress web design and development services.
         content: >+
           We’re building a strong community of young people who are learning to
           code and support them with our network of mentors, investors, and
