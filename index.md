@@ -45,18 +45,19 @@ sections:
         label: Email
         default_value: Email address
         options: []
-        is_required: false
+        is_required: true
         type: form_field
-      - input_type: text
+      - input_type: select
         name: Enquiry type
         label: Enquiry type
         options:
+          - General
           - Web development
           - Digital Marketing
           - Social Media Marketing
           - Community Building
           - Other
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: textarea
         name: Message
@@ -64,7 +65,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-    submit_label: Send
+    submit_label: Send Message
     type: section_form
     template: section_form
   - type: section_testimonials
