@@ -4,17 +4,14 @@ hide_title: true
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ###### **Visit Us**
 
+      l2/155 Queen St, Brisbane City QLD 4000
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ###### **Send Email**
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      contact@bakarimustafa.com
     actions: []
     type: section_hero
     template: section_hero
