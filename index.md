@@ -63,7 +63,7 @@ sections:
         actions: []
       - type: grid_item
         template: grid_item
-        title: Climate Change
+        title: Brand Strategy
         content: >+
           We support bold ideas for forest regeneration and protecting our
           biodiversity that is essential to mitigating climate change.
