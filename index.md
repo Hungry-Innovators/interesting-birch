@@ -50,7 +50,6 @@ sections:
       - input_type: text
         name: Enquiry type
         label: Enquiry type
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
