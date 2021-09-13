@@ -6,9 +6,7 @@ sections:
     template: section_hero
     title: Big Ideas Making Big Impact.
     section_id: hero
-    content: >
-      We are a thriving network of peers and innovators nurturing the next
-      generation of innovators, business leaders, and founders.
+    content: "We specialise in\_web design,\_digital consultancy & brand strategy and products that are simple, beautiful and helps businesses grow.\n"
     actions:
       - type: action
         template: action
