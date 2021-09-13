@@ -34,7 +34,7 @@ sections:
           offerings and look to generate measurable results.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Google Ads
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
