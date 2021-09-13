@@ -2,7 +2,7 @@
 title: Digital Marketing
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Digital Marketing
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
