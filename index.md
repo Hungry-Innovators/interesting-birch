@@ -65,7 +65,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-    submit_label: Send
+    submit_label: Send Message
     type: section_form
     template: section_form
   - type: section_testimonials
