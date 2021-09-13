@@ -40,7 +40,7 @@ sections:
     form_id: lorem-ipsum
     form_action: /thank-you
     form_fields:
-      - input_type: text
+      - input_type: email
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
