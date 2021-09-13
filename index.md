@@ -55,12 +55,9 @@ sections:
       - type: grid_item
         template: grid_item
         title: Audience Strategy
-        content: >+
-          We work with leaders who believe in universal access to education and
-          are driving a wide range of innovative approaches to teach, mentoring,
-          and learning for young people.
-
-
+        content: >
+          Identifying Target Audiences, In-Depth Audience Profiling, Data Mining
+          & Insights and more.
         image: ''
         image_alt: ''
         actions: []
