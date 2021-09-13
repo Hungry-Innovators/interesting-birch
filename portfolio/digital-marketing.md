@@ -34,6 +34,10 @@ seo:
       value: Digital Marketing
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: /images/christina-wocintechchat-com-yyp_HpXrUfw-unsplash.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: project
 thumb_image: /images/merakist-CNbRsQj8mHQ-unsplash.jpeg
