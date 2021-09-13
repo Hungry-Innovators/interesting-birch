@@ -47,7 +47,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: text
+      - input_type: select
         name: Enquiry type
         label: Enquiry type
         options:
