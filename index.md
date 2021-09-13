@@ -40,7 +40,7 @@ sections:
     form_id: lorem-ipsum
     form_action: /thank-you
     form_fields: []
-    submit_label: contact Us
+    submit_label: Contact Us
     type: section_form
     template: section_form
   - type: section_testimonials
