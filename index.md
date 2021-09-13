@@ -56,6 +56,7 @@ sections:
           - Social Media Marketing
           - Community Building
           - Other
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: textarea
