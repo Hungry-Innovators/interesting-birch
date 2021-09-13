@@ -53,7 +53,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-    submit_label: Contact Us
+    submit_label: Send
     type: section_form
     template: section_form
   - type: section_testimonials
