@@ -18,7 +18,7 @@ sections:
         no_follow: false
       - label: Get a Quote Now
         url: /contact-us
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
