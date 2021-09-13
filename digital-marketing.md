@@ -25,7 +25,7 @@ sections:
           prior to making a purchase or visiting your website.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Social Media Marketing
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
