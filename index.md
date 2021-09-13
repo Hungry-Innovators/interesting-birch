@@ -43,12 +43,11 @@ sections:
       - type: grid_item
         template: grid_item
         title: WordPress web design and development services.
-        content: >+
-          We’re building a strong community of young people who are learning to
-          code and support them with our network of mentors, investors, and
-          Founders.
-
-
+        content: >
+          Our WordPress web design process begins with a sit down with you.
+          During this, we would need you to complete an elaborate brief and
+          provide information on functionality and what you want your site to
+          achieve within the context of your business.
         image: ''
         image_alt: ''
         actions: []
