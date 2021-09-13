@@ -36,6 +36,10 @@ seo:
         custom functionality to achieve a specific goal.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Web Development
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 thumb_image: /images/charles-deluvio-Lks7vei-eAg-unsplash.jpeg
