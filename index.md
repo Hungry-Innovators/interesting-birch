@@ -38,7 +38,7 @@ sections:
       Got a project that you would like to discuss? Look no further than Hungry
       Innovators, your personal guide to finding online success.
     form_id: lorem-ipsum
-    form_action: /contact-us
+    form_action: /thank-you
     form_fields: []
     submit_label: contact Us
     type: section_form
