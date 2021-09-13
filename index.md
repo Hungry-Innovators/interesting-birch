@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     template: section_hero
-    title: Big Ideas Making Big Impact.
+    title: Pushing boundaries one byte at a time.
     section_id: hero
     content: "We specialise in\_web design,\_digital consultancy & brand strategy and products that are simple, beautiful and helps businesses grow.\n"
     actions:
