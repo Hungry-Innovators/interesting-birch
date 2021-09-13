@@ -59,6 +59,13 @@ seo:
         available to help your business generate leads.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Increase traffic, enquires, engagement & sales. Speak to a Hungry
+        Innovators Digital Marketing specialist today and see what options are
+        available to help your business generate leads.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
