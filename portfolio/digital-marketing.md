@@ -54,10 +54,8 @@ What kind of language does your brand communicate to your customers? Or did you 
 
 Search engine optimisation is a vital part of digital marketing and without ongoing SEO, businesses soon find that their ranking drops back. Local search optimisation is also important for your small business, with a large percentage of customers checking online reviews prior to making a purchase or visiting your website.
 
-## Social Media Marketing
+## Social Media Marketing & Google Ads
 
 Online marketing has changed extensively over the years and you need a mix of the right people for success. Our Social Media plans focus on getting leads for prospects within each niche of the businesses offerings and look to generate measurable results.
-
-## Google Ads
 
 Pay-per-click advertising through Google Ads is an effective way to drive visitors to your website for the first time, or to get the most exposure possible for a deal or promotion.
