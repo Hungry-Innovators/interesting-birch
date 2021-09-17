@@ -46,6 +46,11 @@ seo:
 layout: project
 thumb_image: /images/merakist-CNbRsQj8mHQ-unsplash.jpeg
 ---
+## Content strategy
+
+What kind of language does your brand communicate to your customers? Or did you just pasted a generically-written content from your document to your website? We'd like to fix that. We'll dissect each sentence and rewrite it to fit into your branded voice and tone. What? You don't have one. We'll create one for you. We'll even put the Oxford comma for free.
+
+
 ## SEO
 
 Search engine optimisation is a vital part of digital marketing and without ongoing SEO, businesses soon find that their ranking drops back. Local search optimisation is also important for your small business, with a large percentage of customers checking online reviews prior to making a purchase or visiting your website.
