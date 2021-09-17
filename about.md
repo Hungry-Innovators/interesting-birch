@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Who we are
 image_alt: A man taking a picture
 seo:
   type: stackbit_page_meta
