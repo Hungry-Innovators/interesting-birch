@@ -39,8 +39,6 @@ seo:
       relativeUrl: false
 layout: page
 ---
-## Who We Are.
-
 A thriving network of peers and innovators. Dedicated to inspiring the next generation of innovators. We are nurturing a generation of Innovators, business leaders, and Founders.
 
 We are a marketing agency that delivers more – a team of creative thinkers and go-getters who are proud to have helped many businesses grow and evolve into their very best versions of themselves. We create engaging digital marketing campaigns.
