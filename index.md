@@ -31,7 +31,7 @@ sections:
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
-    subtitle: How we can help you?
+    subtitle: 'Our approach usually revolves around the following:'
   - title: Let’s chat about how we can help!
     section_id: lorem-ipsum
     content: >
