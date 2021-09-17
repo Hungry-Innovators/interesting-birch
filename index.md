@@ -35,8 +35,8 @@ sections:
   - title: Let’s chat about how we can help!
     section_id: lorem-ipsum
     content: >
-      Write to us anyway. We'll review your ideas and reply to you with some
-      bits of advice.[
+      Write to us. We'll review your ideas and reply to you with some bits of
+      advice.[
 
       ](mailto:zlatko@ensage.co?subject=It%27s%20a%20good%20day!%20%F0%9F%8C%9E)
     form_id: lorem-ipsum
