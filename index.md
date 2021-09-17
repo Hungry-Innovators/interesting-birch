@@ -6,7 +6,7 @@ sections:
     template: section_hero
     title: Pushing boundaries one byte at a time.
     section_id: hero
-    content: "We specialise in\_web design,\_digital consultancy & brand strategy and products that are simple, beautiful and helps businesses grow.\n"
+    content: "We specialise in\_web design,\_digital consultancy & brand strategy and products that are simple, beautiful and helps businesses grow by adding real value to people’s lives.\n"
     actions:
       - type: action
         template: action
@@ -25,18 +25,20 @@ sections:
         type: action
   - type: section_portfolio
     template: section_portfolio
-    title: Our Services
+    title: Services
     section_id: latest-projects
     layout_style: tiles
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
-    subtitle: How we can help you?
+    subtitle: 'Our approach usually revolves around the following:'
   - title: Let’s chat about how we can help!
     section_id: lorem-ipsum
     content: >
-      Got a project that you would like to discuss? Look no further than Hungry
-      Innovators, your personal guide to finding online success.
+      Write to us. We'll review your ideas and reply to you with some bits of
+      advice.[
+
+      ](mailto:zlatko@ensage.co?subject=It%27s%20a%20good%20day!%20%F0%9F%8C%9E)
     form_id: lorem-ipsum
     form_action: /thank-you
     form_fields:

@@ -50,6 +50,10 @@ thumb_image: /images/charles-deluvio-Lks7vei-eAg-unsplash.jpeg
 ---
 Your website is literally the digital face that your business presents to the world. It needs to look fantastic, reflect your unique brand identity, tell the world what you do, support the goals of your business, and function well. It also needs to get you seen by the right audience online.
 
+### Product Development
+
+We use as little code as possible to solve as big challenges as feasible. Because we understand the more code is written, the more cost for refactoring, dependencies, and creeping bugs in some weird corner of the universe. That's not nimble, neither resilient. Some even say code is poetry, and we'd like to think the same.
+
 ### WordPress Development
 
 Our WordPress web design process begins with a sit down with you. During this, we would need you to complete an elaborate brief and provide information on functionality and what you want your site to achieve within the context of your business.
