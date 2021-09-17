@@ -25,7 +25,7 @@ sections:
         type: action
   - type: section_portfolio
     template: section_portfolio
-    title: Our Services
+    title: Services
     section_id: latest-projects
     layout_style: tiles
     projects_number: 4
