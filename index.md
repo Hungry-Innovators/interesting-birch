@@ -35,8 +35,10 @@ sections:
   - title: Let’s chat about how we can help!
     section_id: lorem-ipsum
     content: >
-      Got a project that you would like to discuss? Look no further than Hungry
-      Innovators, your personal guide to finding online success.
+      Write to us anyway. We'll review your ideas and reply to you with some
+      bits of advice.[
+
+      ](mailto:zlatko@ensage.co?subject=It%27s%20a%20good%20day!%20%F0%9F%8C%9E)
     form_id: lorem-ipsum
     form_action: /thank-you
     form_fields:
