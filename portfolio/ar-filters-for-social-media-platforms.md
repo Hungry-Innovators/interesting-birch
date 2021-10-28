@@ -60,6 +60,10 @@ seo:
       value: /images/uniboa-NrMGL5MR8uk-unsplash.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/uniboa-NrMGL5MR8uk-unsplash.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
