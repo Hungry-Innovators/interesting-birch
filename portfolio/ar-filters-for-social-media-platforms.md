@@ -25,7 +25,11 @@ seo:
   title: AR filters
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: AR filters
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
