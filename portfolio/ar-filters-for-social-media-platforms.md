@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: AR Filters
 subtitle: lorem-ipsum
 layout_style: mosaic
 seo:
