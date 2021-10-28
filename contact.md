@@ -2,31 +2,15 @@
 title: Contact
 hide_title: true
 sections:
-  - title: To get in touch
-    section_id: lorem-ipsum
-    content: |
-      ###### **Visit Us**
-
-      l2/155 Queen St, Brisbane City QLD 4000
-
-      ###### **Send Email**
-
-      contact@bakarimustafa.com
-    actions: []
-    type: section_hero
-    template: section_hero
   - type: section_form
     template: section_form
     section_id: contact-form
-    content: >+
-      Please feel free to drop a message if you want to talk about business
-      opportunities. Fill the contact form below or send us an email at
-      <support@hungryinnovators.com.au>.
+    content: >
+      Write to us. We'll review your ideas and reply to you with some bits of
+      advice.
 
 
       Fields marked with an \* are required
-
-
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -70,6 +54,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
+    title: Get in touch
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
