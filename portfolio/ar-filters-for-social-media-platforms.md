@@ -56,6 +56,10 @@ seo:
       value: AR filters
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: /images/uniboa-NrMGL5MR8uk-unsplash.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
