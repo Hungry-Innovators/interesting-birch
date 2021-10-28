@@ -47,6 +47,10 @@ seo:
 
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: AR filters
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
