@@ -2,15 +2,6 @@
 title: Contact
 hide_title: true
 sections:
-  - title: To get in touch
-    section_id: lorem-ipsum
-    content: |
-      ###### **Visit Us**
-
-      l2/155 Queen St, Brisbane City QLD 4000
-    actions: []
-    type: section_hero
-    template: section_hero
   - type: section_form
     template: section_form
     section_id: contact-form
