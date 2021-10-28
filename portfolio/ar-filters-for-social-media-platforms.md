@@ -9,7 +9,7 @@ sections:
       - label: Get free demo
         url: /contact
         style: button
-        icon: facebook
+        icon: dribbble
         new_window: false
         no_follow: false
         type: action
