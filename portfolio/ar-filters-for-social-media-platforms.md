@@ -2,7 +2,7 @@
 title: AR Filters
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: AR filters
     section_id: lorem-ipsum
     content: >
       AR Camera Filters are essential for immersive fan connection and
