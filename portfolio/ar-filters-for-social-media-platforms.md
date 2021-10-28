@@ -22,7 +22,7 @@ sections:
         type: action
     type: section_hero
     template: section_hero
-  - title: lorem-ipsum
+  - title: Let’s create a filter together!
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
