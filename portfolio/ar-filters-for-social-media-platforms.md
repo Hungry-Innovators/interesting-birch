@@ -26,17 +26,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "We offer a simple and efficient process that works with any type of business or agency partner regardless of size or specialities. See just how easy it can be for your business to get AR creatives made each & every day.\n\nWe create engaging Snapchat, Instagram and Facebook Filters for brands and individuals. Branded\_ Snapchat, Instagram and Facebook AR Filters benefits are following:\_\_\n\n*   Increase engagement\_ \_\n\n*   Acquire new users\n\n*   Get higher reach\n\n*   Support campaign\n\n*   Be innovative\n"
     type: section_content
     template: section_content
 seo:
