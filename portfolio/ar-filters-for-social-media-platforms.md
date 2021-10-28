@@ -9,9 +9,6 @@ sections:
       engagement. The rise of Augmented Reality (AR) has brought incredible
       opportunities that literally allows fans to become your organic branded
       ambassadors.
-
-
-      *
     actions:
       - label: Get free demo
         url: /contact
