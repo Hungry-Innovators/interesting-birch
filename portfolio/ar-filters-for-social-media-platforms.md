@@ -40,6 +40,13 @@ seo:
 
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >+
+        Communicate through filters on your social media such as Instagram or
+        Facebook. Increase engagement with your fans and boost your marketing!
+
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
