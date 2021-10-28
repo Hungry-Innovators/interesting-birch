@@ -30,6 +30,13 @@ seo:
       value: AR filters
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >+
+        Communicate through filters on your social media such as Instagram or
+        Facebook. Increase engagement with your fans and boost your marketing!
+
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
