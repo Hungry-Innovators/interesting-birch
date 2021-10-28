@@ -5,15 +5,12 @@ sections:
   - type: section_form
     template: section_form
     section_id: contact-form
-    content: >+
-      Please feel free to drop a message if you want to talk about business
-      opportunities. Fill the contact form below or send us an email at
-      <support@hungryinnovators.com.au>.
+    content: >
+      Write to us. We'll review your ideas and reply to you with some bits of
+      advice.
 
 
       Fields marked with an \* are required
-
-
     form_id: contactForm
     form_action: /thank-you
     form_fields:
