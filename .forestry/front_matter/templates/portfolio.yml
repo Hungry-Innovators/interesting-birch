@@ -39,4 +39,3 @@ fields:
       required: true
 pages:
   - portfolio/index.md
-  - portfolio/ar-filters-for-social-media-platforms.md
