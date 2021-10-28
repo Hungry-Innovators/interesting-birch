@@ -57,7 +57,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
-    title: To get in touch
+    title: Get in touch
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
