@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: AR Filters
 hide_title: true
 sections: []
 seo:
