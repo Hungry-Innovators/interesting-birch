@@ -8,10 +8,6 @@ sections:
       ###### **Visit Us**
 
       l2/155 Queen St, Brisbane City QLD 4000
-
-      ###### **Send Email**
-
-      contact@bakarimustafa.com
     actions: []
     type: section_hero
     template: section_hero
