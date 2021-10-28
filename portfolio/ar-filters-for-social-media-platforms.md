@@ -22,7 +22,7 @@ sections:
     type: section_hero
     template: section_hero
 seo:
-  title: ''
+  title: AR filters
   description: ''
   robots: []
   extra: []
