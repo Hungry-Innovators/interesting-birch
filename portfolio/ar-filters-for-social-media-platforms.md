@@ -23,7 +23,10 @@ sections:
     template: section_hero
 seo:
   title: AR filters
-  description: ''
+  description: >+
+    Communicate through filters on your social media such as Instagram or
+    Facebook. Increase engagement with your fans and boost your marketing!
+
   robots: []
   extra:
     - name: 'og:title'
